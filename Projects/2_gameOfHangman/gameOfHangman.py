@@ -53,7 +53,7 @@ while life > 0:
     else:
         print(f"La lettre {userLetter} est déjà trouvée")
 
-    print({gameofHangman_logo.PENDU[6 - life]})
+    print(gameofHangman_logo.PENDU[6 - life])
 
 
     continue

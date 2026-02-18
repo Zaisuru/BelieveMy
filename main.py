@@ -1,17 +1,4 @@
-def additionner(*nombres):
-    """
-    Additionne les nombres passés en arguments
+liste = ["Iron Man", "Robert Downey JR", 50, True]
 
-    Args :
-        nombres : une suite de nombres
-        nombres_après_la_virgule : Le nombre de chiffres après la virgule
-    Returns :
-        Retourne l'addition des nombres passés en arguments
-    """
-    total = 0
+tuple = ("Iron Man", "Robert Downey JR", 50, True)
 
-    for nombre in nombres :
-        total += int(nombre)
-    return total
-
-print(additionner(5, 5,5,5,5,5,5))

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93f4d34a-cd2e-4b12-9051-be7145caef08" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/4_whoShouldPay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/5_rockPaperScissors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/7_bestNote.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/8_averageCalculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/9_passwordGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/baccalaureate_honors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/creditSimulator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/intermediate_case.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/numberOfCharacters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/1_caesarCipher/caesarCipher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/1_caesarCipher/caesarCypherLogo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/2_gameOfHangman/gameOfHangman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/2_gameOfHangman/gameOfHangman_Correction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/2_gameOfHangman/gameofHangman_logo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="38vxUGFfprnpegzScsl7Asj7r1T" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.IMC.executor": "Run",
+    "Python.averageCalculator.executor": "Run",
+    "Python.baccalaureate_honors.executor": "Run",
+    "Python.bestNote.executor": "Run",
+    "Python.burgerfactory.executor": "Run",
+    "Python.caesarCipher.executor": "Run",
+    "Python.chat.executor": "Run",
+    "Python.cours.executor": "Run",
+    "Python.gameOfHangman.executor": "Run",
+    "Python.gameOfHangman_Correction.executor": "Run",
+    "Python.gameofHangman_logo.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.numberOfCharacters.executor": "Run",
+    "Python.passwordGenerator.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/thoma/PyCharmMiscProject/BelieveMy",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thoma\PyCharmMiscProject\BelieveMy\Projects\caesarCipher" />
+      <recent name="C:\Users\thoma\PyCharmMiscProject\BelieveMy\Exercises" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="BelieveMy" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93f4d34a-cd2e-4b12-9051-be7145caef08" name="Changes" comment="" />
+      <created>1769693859572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769693859572</updated>
+      <workItem from="1769693860705" duration="2017000" />
+      <workItem from="1769698263008" duration="4633000" />
+      <workItem from="1770386003694" duration="2292000" />
+      <workItem from="1770825799014" duration="635000" />
+      <workItem from="1770826439873" duration="1296000" />
+      <workItem from="1770889922003" duration="13339000" />
+      <workItem from="1770988103249" duration="146000" />
+      <workItem from="1770990184097" duration="3611000" />
+      <workItem from="1771248562177" duration="11562000" />
+      <workItem from="1771278180850" duration="2737000" />
+      <workItem from="1771339896345" duration="311000" />
+      <workItem from="1771340745540" duration="6130000" />
+      <workItem from="1771404189416" duration="9564000" />
+      <workItem from="1771492309576" duration="3805000" />
+      <workItem from="1771841108151" duration="2464000" />
+      <workItem from="1771943466049" duration="2847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chat.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BelieveMy$cours.coverage" NAME="cours Coverage Results" MODIFIED="1770388894099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BelieveMy$gameofHangman_logo.coverage" NAME="gameofHangman_logo Coverage Results" MODIFIED="1771346901590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/2_gameOfHangman" />
+    <SUITE FILE_PATH="coverage/BelieveMy$gameOfHangman.coverage" NAME="gameOfHangman Coverage Results" MODIFIED="1771346924068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/2_gameOfHangman" />
+    <SUITE FILE_PATH="coverage/BelieveMy$chat.coverage" NAME="chat Coverage Results" MODIFIED="1771946069364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BelieveMy$bestNote.coverage" NAME="bestNote Coverage Results" MODIFIED="1770896009443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects" />
+    <SUITE FILE_PATH="coverage/BelieveMy$passwordGenerator.coverage" NAME="passwordGenerator Coverage Results" MODIFIED="1770913612708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
+    <SUITE FILE_PATH="coverage/BelieveMy$IMC.coverage" NAME="IMC Coverage Results" MODIFIED="1769695793056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IMC_Calculator" />
+    <SUITE FILE_PATH="coverage/BelieveMy$caesarCipher.coverage" NAME="caesarCipher Coverage Results" MODIFIED="1771258692817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects" />
+    <SUITE FILE_PATH="coverage/BelieveMy$numberOfCharacters.coverage" NAME="numberOfCharacters Coverage Results" MODIFIED="1771427431285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
+    <SUITE FILE_PATH="coverage/BelieveMy$gameOfHangman_Correction.coverage" NAME="gameOfHangman_Correction Coverage Results" MODIFIED="1771346857873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/2_gameOfHangman" />
+    <SUITE FILE_PATH="coverage/BelieveMy$main.coverage" NAME="main Coverage Results" MODIFIED="1771946319661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/BelieveMy$burgerfactory.coverage" NAME="burgerfactory Coverage Results" MODIFIED="1769702868524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BurgerFactory" />
+    <SUITE FILE_PATH="coverage/BelieveMy$averageCalculator.coverage" NAME="averageCalculator Coverage Results" MODIFIED="1770909317361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
+    <SUITE FILE_PATH="coverage/BelieveMy$baccalaureate_honors.coverage" NAME="baccalaureate_honors Coverage Results" MODIFIED="1771412033728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
+  </component>
+</project>

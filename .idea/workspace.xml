@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93f4d34a-cd2e-4b12-9051-be7145caef08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/4_whoShouldPay.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/5_rockPaperScissors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/7_bestNote.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/8_averageCalculator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/9_passwordGenerator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/baccalaureate_honors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/creditSimulator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/intermediate_case.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/numberOfCharacters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/1_caesarCipher/caesarCipher.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/1_caesarCipher/caesarCypherLogo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/2_gameOfHangman/gameOfHangman.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/2_gameOfHangman/gameOfHangman_Correction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/2_gameOfHangman/gameofHangman_logo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Projects/03_whoWantsMili/logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Projects/03_whoWantsMili/moteur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Projects/03_whoWantsMili/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Projects/03_whoWantsMili/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +17,17 @@
       <list>
         <option value="Python Script" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -61,6 +59,7 @@
     "Python.gameOfHangman_Correction.executor": "Run",
     "Python.gameofHangman_logo.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.moteur.executor": "Run",
     "Python.numberOfCharacters.executor": "Run",
     "Python.passwordGenerator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -138,7 +137,10 @@
       <workItem from="1771404189416" duration="9564000" />
       <workItem from="1771492309576" duration="3805000" />
       <workItem from="1771841108151" duration="2464000" />
-      <workItem from="1771943466049" duration="2847000" />
+      <workItem from="1771943466049" duration="4797000" />
+      <workItem from="1772100371740" duration="672000" />
+      <workItem from="1772442142658" duration="6939000" />
+      <workItem from="1772528392226" duration="6739000" />
     </task>
     <servers />
   </component>
@@ -153,10 +155,15 @@
           <line>2</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python/Projects/03_whoWantsMili/main.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BelieveMy$moteur.coverage" NAME="moteur Coverage Results" MODIFIED="1772536487367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Projects/03_whoWantsMili" />
     <SUITE FILE_PATH="coverage/BelieveMy$cours.coverage" NAME="cours Coverage Results" MODIFIED="1770388894099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BelieveMy$gameofHangman_logo.coverage" NAME="gameofHangman_logo Coverage Results" MODIFIED="1771346901590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/2_gameOfHangman" />
     <SUITE FILE_PATH="coverage/BelieveMy$gameOfHangman.coverage" NAME="gameOfHangman Coverage Results" MODIFIED="1771346924068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/2_gameOfHangman" />
@@ -167,7 +174,7 @@
     <SUITE FILE_PATH="coverage/BelieveMy$caesarCipher.coverage" NAME="caesarCipher Coverage Results" MODIFIED="1771258692817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects" />
     <SUITE FILE_PATH="coverage/BelieveMy$numberOfCharacters.coverage" NAME="numberOfCharacters Coverage Results" MODIFIED="1771427431285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
     <SUITE FILE_PATH="coverage/BelieveMy$gameOfHangman_Correction.coverage" NAME="gameOfHangman_Correction Coverage Results" MODIFIED="1771346857873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/2_gameOfHangman" />
-    <SUITE FILE_PATH="coverage/BelieveMy$main.coverage" NAME="main Coverage Results" MODIFIED="1771946319661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/BelieveMy$main.coverage" NAME="main Coverage Results" MODIFIED="1772536654224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Projects/03_whoWantsMili" />
     <SUITE FILE_PATH="coverage/BelieveMy$burgerfactory.coverage" NAME="burgerfactory Coverage Results" MODIFIED="1769702868524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BurgerFactory" />
     <SUITE FILE_PATH="coverage/BelieveMy$averageCalculator.coverage" NAME="averageCalculator Coverage Results" MODIFIED="1770909317361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
     <SUITE FILE_PATH="coverage/BelieveMy$baccalaureate_honors.coverage" NAME="baccalaureate_honors Coverage Results" MODIFIED="1771412033728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
